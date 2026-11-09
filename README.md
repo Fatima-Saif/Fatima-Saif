@@ -1,5 +1,5 @@
-# 💫 About Me:
- 👩‍💻 Professional Overview<br><br>I am a passionate Computer Science student and a dedicated web developer with a strong focus on creating modern, responsive, and user-friendly digital experiences. I specialize in frontend development and continuously work on enhancing my skills in Python, AI, and advanced web technologies.<br><br> 🚀 What I’m Working On<br>-Developing a 3D animated Landing page with smooth animations<br>- Developing a 3D animated  portfolio website  <br>- Building responsive and interactive web applications  <br>- Expanding my expertise in AI and machine learning  <br><br> 🤝 Collaboration & Opportunities<br>I’m open to freelance projects and collaborations related to:<br>- Frontend Web Development (HTML, CSS, JavaScript)  <br>- Website UI/UX design and optimization  <br>- Portfolio and business website development  <br><br>🧠 Skills<br>- HTML5, CSS3, JavaScript , React , Node.js<br>- Responsive Web Design  <br>- Basic Python  <br>- SEO Fundamentals  <br>- Problem Solving & Creative Thinking  <br><br> 📈 Goals<br>- Become a professional AI & Web Developer  <br>- Work with international clients on platforms like Upwork  <br>- Build impactful and high-quality digital products  <br><br>💬 Let’s Connect<br>Feel free to reach out for collaboration, freelance work, or tech discussions.<br><br>⚡ Fun Fact<br>I enjoy solving coding problems so much that even debugging feels like a challenge I love to win.
+#  About Me:
+  Professional Overview<br><br>I am a passionate Computer Science student and a dedicated web developer with a strong focus on creating modern, responsive, and user-friendly digital experiences. I specialize in frontend development and continuously work on enhancing my skills in Python, AI, and advanced web technologies.<br><br>  What I’m Working On<br>-Developing a 3D animated Landing page with smooth animations<br>- Developing a3D animated  portfolio website  <br>- Building responsive and interactive web applications  <br>- Expanding my expertise in AI and machine learning  <br><br> 🤝 Collaboration & Opportunities<br>I’m open to freelance projects and collaborations related to:<br>- Frontend Web Development (HTML, CSS, JavaScript)  <br>- Website UI/UX design and optimization  <br>- Portfolio and business website development  <br><br> Skills<br>- HTML5, CSS3, JavaScript , React , Node.js<br>- Responsive Web Design  <br>- Basic Python  <br>- SEO Fundamentals  <br>- Problem Solving & Creative Thinking  <br><br>  Goals<br>- Become a professional AI & Web Developer  <br>- Work with international clients on platforms like Upwork  <br>- Build impactful and high-quality digital products  <br><br> Let’s Connect<br>Feel free to reach out for collaboration, freelance work, or tech discussions.<br><br> Fun Fact<br>I enjoy solving coding problems so much that even debugging feels like a challenge I love to win.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
-**Fatima-Saif/Fatima-Saif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fatima-Saif/Fatima-Saif** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
